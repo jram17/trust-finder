@@ -1,9 +1,11 @@
 # trust-finder
-#rust Finder Web Crawler
-This Python script serves as a web crawler and web scraper to collect information about trusts in India, organized statewise, from the NGO Darpan website. The collected data is stored in an Excel file (trustInfoIndia.xlsx) for easy access and analysis.
+Trust Finder Web Crawler
+This Python script serves as a web crawler and web scraper to collect information about trusts in India, organized statewise, from the NGO Darpan website. 
+The collected data is stored in an Excel file (trustInfoIndia.xlsx) for easy access and analysis.
 
 Objective:
-The objective of this project is to gather comprehensive information about trusts in India, including their names and registration numbers, to facilitate better understanding and analysis of the trust landscape in the country.
+The objective of this project is to gather comprehensive information about trusts in India, including their names and registration numbers, to facilitate better understanding 
+and analysis of the trust landscape in the country.
 
 Implementation:
 -The script utilizes the requests library to fetch HTML content from the NGO Darpan website.
